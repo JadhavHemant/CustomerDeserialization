@@ -1,0 +1,29 @@
+{
+	"createCustomer":
+	{
+		"cust_fName": "Sumit",
+		"cust_lName": "Kate",
+		"cust_billingAddress": "Mumbai",
+		"product_Name": "Mobile",
+		"product_price": 25000,
+		"product_Discount": "10",
+		"product_info": "Samsung"
+	},
+	
+	"UpdateCustomer":
+	{
+		"cust_fName": "Sayali",
+		"cust_lName": "Shinde",
+		"cust_billingAddress": "Pune",
+		"product_Name": "Watch",
+		"product_price": 10000,
+		"product_Discount": "5",
+		"product_info": "Apple"
+	},
+	
+	"UpdatePartialCustomer":
+	{
+		"cust_fName": "Raviraj",
+		"cust_lName": "Joshi"
+	}
+}
